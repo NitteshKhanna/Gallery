@@ -7,4 +7,21 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gallery';
+  elements=[
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    {url:"assets/chad.png",name:"NK"},
+    
+  ]
 }
